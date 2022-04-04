@@ -1,1 +1,3 @@
-
+function bks(){
+    alert ('ok')
+}
