@@ -1,3 +1,0 @@
-function bks(){
-    alert ('ok')
-}
